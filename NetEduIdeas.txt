@@ -18,3 +18,4 @@ Goal: Create a fully interactive social media web experience for schools.
 13). Allow users to switch events by just clicking oe button
 14). Allow students to have private conversations
 15). Allow users to upload documents, videos, and photos
+16). Make an app for the mobile phones to add/post new things
