@@ -15,4 +15,6 @@ Goal: Create a fully interactive social media web experience for schools.
 10). An oraginized system of links
 11). Youtube
 12). Pinterest
-
+13). Allow users to switch events by just clicking oe button
+14). Allow students to have private conversations
+15). Allow users to upload documents, videos, and photos
