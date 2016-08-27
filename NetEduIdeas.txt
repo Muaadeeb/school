@@ -10,6 +10,9 @@ Goal: Create a fully interactive social media web experience for schools.
 5). Allow pictures to be added
 6). Have a poke radar
 7). Homework updates
-8). Youtube
-9). Pinterest
+8). Direct messaging.
+9). You can create and customize your own page/account.
+10). An oraginized system of links
+11). Youtube
+12). Pinterest
 
