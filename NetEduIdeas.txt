@@ -7,5 +7,6 @@ Goal: Create a fully interactive social media web experience for schools.
 2). Allow users to create events and subscribe to events and also subscribe to people.
 3). Like/Comment
 4). Sporting event information including dates/times + student pickup info.
-5). 
+5). Make an app for the mobile phones to add/post new things
+6).
 
