@@ -1,0 +1,11 @@
+NetEdu Project
+
+Goal: Create a fully interactive social media web experience for schools.
+* Keep it positive/happy *
+ 
+1). Create a singular event and have multimedia capabilities.
+2). Allow users to create events and subscribe to events and also subscribe to people.
+3). Like/Comment
+4). Sporting event information including dates/times + student pickup info.
+5). 
+
