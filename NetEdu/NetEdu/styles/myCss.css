@@ -1,2 +1,8 @@
 ﻿body {
 }
+
+.headTile{
+    background-color:#CCCCCC;
+    color:#DD66FF;
+    border:5px solid white;
+}
