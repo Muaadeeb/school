@@ -1,18 +1,22 @@
 ﻿<!DOCTYPE html>
 <html>
-    <head>
-        <title></title>
-        <meta charset="utf-8" />
-        <style>
-            #icon {
-                height: 250px;
-                width: 250px;
-                text-align: left;
-                padding: 5px;
-            }
-        </style>
-    </head>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="styles/myCss.css" rel="stylesheet" type="text/css" />
+    <link href="Content/bootstrap.css" rel="stylesheet" type="text/css" />
+    <style>
+        #icon {
+            height: 250px;
+            width: 250px;
+            text-align: left;
+            padding: 5px;
+        }
+    </style>
+</head>
 <body>
+<body>
+
     Qunincy is going to do some cool stuff here.
     <h1 style="padding-left:200px;font-size:32px">KoolSkool</h1>
     <p style="padding-left:200px;font-size:24px">A fun way to interact with school.</p>
@@ -23,11 +27,42 @@
             <th><a href="https://www.random.org/">Insert 3rd Thing Here</a></th>
 
     </table>
-
-
-    <div id="icon">
-        <img src="KoolSkoolLogo.jpg">
+    <div class="container-fluid">
+        <div class="row HeadTileBox">
+            <div class="col-lg-3 col-sm-6 HeadTile" onclick="window.location = 'About.html'">
+                <span class="glyphicon glyphicon-search"></span>
+                <p>About</p>
+            </div>
+            <div class="col-lg-3 col-sm-6 HeadTile" onclick="window.location='SchoolFinder/index.html'">
+                <span class="glyphicon"></span>
+                <p>School Finder</p>
+            </div>
+            <div class="col-lg-3 col-sm-6 HeadTile">
+                <span class="glyphicon"></span>
+                <p>CoolLink</p>
+            </div>
+            <div class="col-lg-3 col-sm-6 HeadTile">
+                <span class="glyphicon"></span>
+                <p>ReallyCoolLink</p>
+            </div>
+        </div>
     </div>
 
+    <div id="icon">
+        <img src="images/KoolSkoolLogo.png" />
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+   <div><a href="signUp.html">Sign Up</a></div>
 </body>
 </html>
