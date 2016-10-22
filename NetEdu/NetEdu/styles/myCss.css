@@ -14,3 +14,9 @@
     border-top: 1px solid #888;
     border-bottom: 1px solid #888;
 }
+        #icon {
+            height: 250px;
+            width: 250px;
+            text-align: left;
+            padding: 5px;
+        }
