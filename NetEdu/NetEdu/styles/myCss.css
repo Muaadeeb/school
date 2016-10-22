@@ -1,19 +1,27 @@
 ﻿body {
 }
-.HeadTile{
-    background-color:#FFCCFF;
-    color:#888;
-    height:50px;
-    border:5px solid #EEE;
+
+.HeadTile {
+    background-color: #FFCCFF;
+    color: #888;
+    border: 5px solid #EEE;
 }
-.HeadTile:hover{
-    background-color:#DDAADD;
-    cursor:pointer;
-}
-.HeadTileBox{
+
+    .HeadTile:hover {
+        background-color: #DDAADD;
+        cursor: pointer;
+    }
+
+    .HeadTileGlyph{
+        text-align:center;
+        font-size:15px;
+    }
+
+.HeadTileBox {
     border-top: 1px solid #888;
     border-bottom: 1px solid #888;
 }
+
 #icon {
     height: 250px;
     width: 250px;
