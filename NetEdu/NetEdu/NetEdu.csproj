@@ -91,6 +91,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="signIn.html" />
+    <Content Include="signUp.html" />
     <Content Include="styles\myCss.css" />
     <Content Include="Web.config" />
   </ItemGroup>
