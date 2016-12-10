@@ -58,3 +58,23 @@ C:\MastersWeb\NetEdu\school\NetEdu\NetEdu\bin\Microsoft.CodeDom.Providers.DotNet
 C:\MastersWeb\NetEdu\school\NetEdu\NetEdu\obj\Debug\NetEdu.csprojResolveAssemblyReference.cache
 C:\MastersWeb\NetEdu\school\NetEdu\NetEdu\obj\Debug\NetEdu.dll
 C:\MastersWeb\NetEdu\school\NetEdu\NetEdu\obj\Debug\NetEdu.pdb
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\csc.exe
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\System.Collections.Immutable.dll
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\System.Reflection.Metadata.dll
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\vbc.exe
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\VBCSCompiler.exe
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\roslyn\VBCSCompiler.exe.config
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\NetEdu.dll.config
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\NetEdu.dll
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\NetEdu.pdb
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\obj\Debug\NetEdu.csprojResolveAssemblyReference.cache
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\obj\Debug\NetEdu.dll
+F:\Masters Web\NetEdu\school\NetEdu\NetEdu\obj\Debug\NetEdu.pdb
