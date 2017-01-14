@@ -17,24 +17,31 @@
     </style>
 
     <style>
-        #icon {
+        .icon {
+            float:left;
             height: 250px;
             width: 250px;
             text-align: left;
             padding: 5px;
+            display:inline;
         }
     </style>
 </head>
 <body>
-<div><a href="signIn.html">Sign In</a> / <a href="signUp.html"> Up </a>
-</div>
-<h1 style="padding-left: 200px; font-size: 32px">KoolSkool</h1>
-    <h2 style="padding-left:200px;font-size:24px">A fun way to interact with school.</h2>
 
+<div><a href="signIn.html">Sign In</a> / <a href="signUp.html"> Up </a></div>
 
+    <div>
+        <span class="icon">
+        <img src="images/KoolSkoolLogo.png" />
+            </span>
+        <center><h1 style="padding-left: 200px; font-size: 32px">KoolSkool</h1>
+        <h2 style="padding-left:200px;font-size:24px">A fun way to interact with school.</h2></center>
+    </div>
+    <br><br><br><br><br><br>
 <div class="container-fluid">
     <div class="row HeadTileBox">
-        <div class="col-lg-3 col-sm-6 HeadTile" onclick="window.location = 'About.html'">
+        <div class="col-lg-3 col-sm-6 HeadTile" onclick="window.location = 'About.html'" style="float:left;">
                 <span class="glyphicon glyphicon-info-sign HeadTileGlyph"></span>
                 <h3>About</h3>
         </div>
@@ -95,13 +102,11 @@
         </div>
 </div>
 
-
+<div>test me</div>
     <hr />
-<div id="icon">
-    <img src="images/KoolSkoolLogo.png"/>
-</div>
 
 
-    <div><a href="signUp.html">Sign Up</a></div>
+
+
 </body>
 </html>
