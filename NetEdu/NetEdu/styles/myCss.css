@@ -2,9 +2,10 @@
 }
 
 .HeadTile {
-    background-color: #FFCCFF;
-    color: #888;
+    background-color: blueviolet;
+    color: white;
     border: 5px solid #EEE;
+    margin-top: 0px;
 }
 
     .HeadTile:hover {
@@ -22,10 +23,13 @@
     border-bottom: 1px solid #888;
 }
 
+#Signin{
+    text-align: right;
+}
 #icon {
-    height: 250px;
+    height: 119px;
     width: 250px;
-    text-align: left;
+    float: left;
     padding: 5px;
 }
 
