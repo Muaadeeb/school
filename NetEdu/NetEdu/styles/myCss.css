@@ -1,8 +1,12 @@
 ﻿body {
 }
 
+#wrapper{
+    background-color: #0966aa;
+    color: whitesmoke;
+}
 .HeadTile {
-    background-color: blueviolet;
+    background-color: #0966aa;
     color: white;
     border: 5px solid #EEE;
     margin-top: 0px;
