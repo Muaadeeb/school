@@ -1,11 +1,4 @@
-﻿body {
-}
-
-#wrapper{
-    background-color: #0966aa;
-    color: whitesmoke;
-}
-.HeadTile {
+﻿.HeadTile {
     background-color: #0966aa;
     color: white;
     border: 5px solid #EEE;
@@ -48,16 +41,16 @@
 
 
 body {
-	background: #eee;
-	color: #444;
-	-webkit-font-smoothing: antialiased;
-	font-family: "Open Sans", Arial, Helvetica, Geneva, sans-serif;
-	font-size: 16px;
-	font-weight: 400;
-	height: auto !important;
-	height: 100%;
-	line-height: 1.6em;
-	min-height: 100%;
+    background-color: #0966aa;
+    color: whitesmoke;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Open Sans", Arial, Helvetica, Geneva, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    height: auto !important;
+    height: 100%;
+    line-height: 1.6em;
+    min-height: 100%;
 }
 
 h2 {
