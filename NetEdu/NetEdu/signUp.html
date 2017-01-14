@@ -16,7 +16,7 @@
 
 </head>
 <body>
-  <h1>Login</h1>
+  <h1>Sign Up</h1>
 <!--<div class=" login">
     <form method="post">
         <input type="text" name="u" placeholder="Username" required="required"/>
@@ -25,7 +25,7 @@
     </form>
 </div>-->
         <section id="loginBox">
-            <h2>Login</h2>
+            <h2>Sign Up</h2>
             <form method="post" class="minimal">
                 <label for="username">
                     Username:
@@ -34,6 +34,10 @@
                 <label for="password">
                     Password:
                     <input type="password" name="password" id="password" placeholder="Password must contain 1 uppercase, lowercase and number" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" required="required" />
+                </label>
+                <label for="password">
+                    Password Confirm:
+                    <input type="password" name="password" id="password" placeholder="Password must contain 1 uppercase, lowercase and number" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" required="required" />"
                 </label>
                 <button type="submit" class="btn-minimal">Sign in</button>
             </form>
