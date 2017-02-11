@@ -29,19 +29,25 @@
 </head>
 <body>
 
-<div class="btn-group"><a href="signIn.html" class="btn btn-primary">Sign In</a><a href="signUp.html" class="btn btn-success"> Sign Up </a></div>
-
-    <div>
-        <span class="icon">
-        <img src="images/KoolSkoolLogo.png" />
-            </span>
-        <center><h1 style="padding-left: 200px; font-size: 32px">KoolSkool</h1>
-        <h2 style="padding-left:200px;font-size:24px">A fun way to interact with school.</h2></center>
-    </div>
-    <br><br><br><br><br><br>
 <div class="container-fluid">
+    <div class="row" id="authBar">
+        <div id="signBox">
+            <div class="text-center">
+                <div class="btn-group" id="signInUpGroup"><a href="signIn.html" class="btn btn-sm btn-primary">Sign In</a><a href="signUp.html" class="btn btn-sm btn-success"> Sign Up </a></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-12 text-center">
+            <img src="images/KoolSkoolLogo.png" class="img-fluid" />
+        </div>
+        <div class="col-md-9 col-sm-6 col-xs-12">
+            <h1 style="font-size: 32px; text-align:center">KoolSkool</h1>
+            <h2 style="font-size:24px; text-align:center">A fun way to interact with school.</h2>
+        </div>
+    </div>
     <div class="row HeadTileBox">
-        <div class="col-lg-3 col-sm-6 HeadTile" onclick="window.location = 'About.html'" style="float:left;">
+        <div class="col-lg-3 col-sm-6 HeadTile" onclick="window.location = 'About.html'">
                 <span class="glyphicon glyphicon-info-sign HeadTileGlyph"></span>
                 <h3>About</h3>
         </div>
