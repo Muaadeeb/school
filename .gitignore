@@ -243,3 +243,11 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+##MastersWeb stuff starts here
+*.dll
+*.config
+![Ww]eb.config
+![Aa]pp.config
+
+.suo
