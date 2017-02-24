@@ -247,7 +247,7 @@ ModelManifest.xml
 ##MastersWeb stuff starts here
 *.dll
 *.config
-![Ww]eb.config
-![Aa]pp.config
+![Ww]eb.*config
+![Aa]pp.*config
 
 .suo
